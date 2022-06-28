@@ -1,2 +1,2 @@
 library custom_titlebar;
-export '';
+export 'final_widget.dart';
